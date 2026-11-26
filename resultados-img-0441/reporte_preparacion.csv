@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+morado,morado1.jpg,OK,260,147,224,224,0.0,1.0,APROBADA
+morado,morado2.jpg,OK,175,80,224,224,0.0,0.969,APROBADA
+morado,morado3.jpg,OK,261,144,224,224,0.067,0.949,APROBADA
+morado,morado4.jpg,OK,254,144,224,224,0.075,0.71,APROBADA
+morado,morado5.jpg,OK,255,138,224,224,0.0,1.0,APROBADA
+naranja,naranja1.jpg,OK,133,180,224,224,0.0,1.0,APROBADA
+naranja,naranja2.jpg,OK,130,172,224,224,0.0,1.0,APROBADA
+naranja,naranja3.jpg,OK,132,165,224,224,0.0,1.0,APROBADA
+naranja,naranja4.jpg,OK,133,165,224,224,0.0,1.0,APROBADA
+naranja,naranja5.jpg,OK,135,159,224,224,0.0,1.0,APROBADA
